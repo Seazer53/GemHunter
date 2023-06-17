@@ -1,0 +1,9 @@
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/.idea.FlushGames - Case.iml
+/modules.xml
+/projectSettingsUpdater.xml
+# Editor-based HTTP Client requests
+/httpRequests/
